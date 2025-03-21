@@ -15,7 +15,7 @@ Este é um simples gerador de senhas aleatórias em Python. Ele permite criar se
 1. Certifique-se de ter o Python instalado (versão 3.x recomendada).
 2. Clone este repositório:
    ```sh
-   git clone [https://github.com/seu-usuari/gerador-senha.git](https://github.com/tchingala18/Automacao)
+   git clone https://github.com/seu-usuari/gerador-senha.git
    ```
 3. Acesse a pasta do projeto:
    ```sh
