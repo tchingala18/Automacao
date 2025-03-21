@@ -1,4 +1,3 @@
-```markdown
 # Gerador de Senhas Aleatórias 🔐
 
 Este é um simples gerador de senhas aleatórias em Python. Ele permite criar senhas seguras com letras, números e caracteres especiais, garantindo maior segurança para seus logins e credenciais.
